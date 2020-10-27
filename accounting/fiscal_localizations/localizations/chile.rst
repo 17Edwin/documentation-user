@@ -324,11 +324,11 @@ in order to add a CAF, just follow these steps:
    :align: center
    :alt: Steps to add a new CAF.
 
-Once is loaded the status changes to "In Use", at this moment when a transaction is used
-for this document type the invoice number will take the first folio in the sequence. 
+Once loaded, the status changes to *In Use*. At this moment, when a transaction is used
+for this document type, the invoice number takes the first folio in the sequence. 
 
 .. important::
-   In case you have use some folios in you previuos system, make sure you set the next valid
+   In case you have used some folios in your previous system, make sure you set the next valid
    folio when the first transation is created. 
 
 
