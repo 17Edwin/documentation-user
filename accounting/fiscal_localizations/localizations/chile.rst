@@ -303,7 +303,7 @@ customers, the CAF is a file the SII provides to the Emisor with the folio/seque
 for the electronic invoice documents.
 
 Your company can make several requests for folios and obtain several CAFs, each one associated
-with different ranges of folios. In V14 the CAF are shared within all the journals, this means
+with different ranges of folios. The CAFs are shared within all the journals, this means
 that you only need one active CAF per document type and it will be applied on all journals.
 
 Please refer to the SII documentation to check the detail on how to acquire the CAF:
@@ -320,7 +320,7 @@ in order to add a CAF, just follow these steps:
 2. Upload the file.
 3. Save the CAF.
 
-.. image:: media/Chile39.gif
+.. image:: media/Chile39.png
    :align: center
    :alt: Steps to add a new CAF.
 
